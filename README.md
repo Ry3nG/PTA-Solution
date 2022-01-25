@@ -1,5 +1,6 @@
 # PAT-Solution
 My solution to the PAT platform
+### PAT 乙级（1001 to 1110）
 | Number | URL | Solution |
 | ------ | ------ | ------ |
 | 1001 | [害死人不偿命的(3n+1)猜想] | [C](1001.c) |
