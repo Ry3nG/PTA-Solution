@@ -1,5 +1,5 @@
-# PAT-Solution
-My solution to the PAT platform
+# PTA-Solution
+My solution to the PTA platform
 ### PAT 乙级（1001 to 1110）
 | Number | URL | Solution |
 | ------ | ------ | ------ |
